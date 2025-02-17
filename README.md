@@ -1,4 +1,4 @@
 # profile
-author - karthik p 
+author - karthik praveen
 <br>
 this is a new project
